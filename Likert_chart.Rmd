@@ -82,7 +82,3 @@ cluster_plot_travel
 cluster_plot_activity <- plot(likert(as.data.frame(whenready[,6:11]),grouping = whenready$age_group)) + ggtitle("Perceptions of post-covid behaviours - local activity")
 cluster_plot_activity
 ```
-## Interpretation from the graphs
-As we can see from the first graph above (Perceptions of post-covid behaviours - travel), the majority of respondents were still being hesitated in any kind of travels due to the pandemic. With younger are the age, more optimistic they are when facing the travelling situation. Also, for the second graph above (Perceptions of post-covid behaviours - local activity), it is obviously shown that most of the respondents are reopen to go eat in restaurants and go shopping in-person at stores or malls, especially for latter one, even older group of respondents (65+) also start to doing that activity.However, for the local activities such as attend large public events, go to bars or clubs and take public transport are still under consideration. Generally speaking, younger age groups (18-44 and 45-49) are quite optimistic in terms of returning to the workplace.
-
-
